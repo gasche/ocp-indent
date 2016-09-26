@@ -102,8 +102,8 @@ overrides definitions from `~/.ocp/ocp-indent.conf` and the built-in default.
 The command-line can of course still be used to override parameters defined in
 the files.
 
-Have a look at ocp-indent's own [`.ocp-indent`](.ocp-indent) file for an
-example.
+Have a look at ocp-indent's own [`.ocp-indent`](https://github.com/OCamlPro/ocp-indent/blob/master/.ocp-indent)
+file for an example.
 
 ### In-file configuration
 There is no built-in support for in-file configuration directives. Yet, some
